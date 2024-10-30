@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Makhlas\n"
+"POT-Creation-Date: 2017-09-24 09:38+0330\n"
+"PO-Revision-Date: 2017-09-24 09:39+0330\n"
+"Last-Translator: \n"
+"Language-Team: Makhlas <support@makhlas.com>\n"
+"Language: Farsi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /wp-content/plugins/makhlas/\n"
+"X-Poedit-SearchPath-0: /wp-content/plugins/makhlas\n"
+
+#: /wp-content/plugins/makhlas/makhlas.php:55
+#: /wp-content/plugins/makhlas/makhlas.php:56
+#: /wp-content/plugins/makhlas/admin/view.php:17
+#: /wp-content/plugins/makhlas/admin/converter.php:5
+msgid "Makhlas"
+msgstr "مَخلص"
+
+#: /wp-content/plugins/makhlas/makhlas.php:67
+#: /wp-content/plugins/makhlas/makhlas.php:68
+#: /wp-content/plugins/makhlas/makhlas.php:85
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: /wp-content/plugins/makhlas/makhlas.php:76
+#: /wp-content/plugins/makhlas/makhlas.php:77
+msgid "Converter"
+msgstr "مبدل"
+
+#: /wp-content/plugins/makhlas/makhlas.php:359
+msgid "Short Url"
+msgstr "لینک کوتاه"
+
+#: /wp-content/plugins/makhlas/admin/view.php:24
+msgid "Api Key"
+msgstr "کلید وب سرویس"
+
+#: /wp-content/plugins/makhlas/admin/view.php:29
+#, php-format
+msgid "Sign up for an %s plan to get an API key."
+msgstr "برای دریافت کلید (Api key) در %s ثبت نام کنید."
+
+#: /wp-content/plugins/makhlas/admin/view.php:35
+msgid "Default domain"
+msgstr "دامنه پیش فرض"
+
+#: /wp-content/plugins/makhlas/admin/view.php:48
+#, php-format
+msgid "You can set default domain in %s admin panel."
+msgstr ""
+"شما می توانید لینک های کوتاه را بروی دامنه خودتان بسازید، برای اینکار کافی "
+"است در %s دامنه خود را در پنل کاربری تعریف کنید."
+
+#: /wp-content/plugins/makhlas/admin/converter.php:6
+msgid "Create short url for all posts"
+msgstr "ایجاد لینک کوتاه برای تمام نوشته ها"
+
+#: /wp-content/plugins/makhlas/admin/converter.php:7
+msgid "Create all published posts short link."
+msgstr ""
+"با این مبدل می توانید برای تمام پست هایی که تا کنون منتشر شده است لینک کوتاه "
+"ایجاد کنید."
+
+#: /wp-content/plugins/makhlas/admin/converter.php:19
+msgid "Update All"
+msgstr "بروزرسانی"
+
+#: /wp-content/plugins/makhlas/admin/converter.php:36
+msgid "Just admin can do it, Converte Failed!"
+msgstr "فقط مدیر سایت می تواند مبدل را اجرا کند."
+
+#: /wp-content/plugins/makhlas/admin/converter.php:41
+msgid "All posts short link created successfully."
+msgstr "لینک کوتاه برای تمام نوشته های منتشر شده ایجاد شد."
+
+#: /wp-content/plugins/makhlas/admin/converter.php:54
+msgid "Convert Error!"
+msgstr "خطا در تبدیل لینک ها!"
+
+#: /wp-content/plugins/makhlas/admin/converter.php:63
+msgid "Do not Close or refresh this page."
+msgstr "در فرآیند تبدیل لینک ها این صفحه را نبندید و رفرش نکنید."
+
+#~ msgid "Create all posts short links."
+#~ msgstr "ایجاد لینک کوتاه برای تمام نوشته ها"
